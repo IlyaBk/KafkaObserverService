@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KafkaObserverService", "KafkaObserverService.csproj", "{7C063D75-0011-41DD-8781-2F5390D64902}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C063D75-0011-41DD-8781-2F5390D64902}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C063D75-0011-41DD-8781-2F5390D64902}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C063D75-0011-41DD-8781-2F5390D64902}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C063D75-0011-41DD-8781-2F5390D64902}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAFAEC17-F41B-4E58-BB6D-3D593AAC91E5}
+	EndGlobalSection
+EndGlobal
